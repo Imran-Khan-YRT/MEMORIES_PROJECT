@@ -11,3 +11,5 @@
 
 1.  `npm init -y` (To initialise empty package json run the command in the sever directory)
 2.  `npm install body-parser cors express mongoose nodemon`
+3.   Learn how to connect & create mongodb cluster
+
